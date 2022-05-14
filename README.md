@@ -9,3 +9,11 @@ The dataset is made manually by running the __*Image Collection python file*__ t
 * Hello ✋
 * Please 🥺
 * Thank you 😺
+
+
+The model was made only with help of [Nicholas Renotte tutorial](https://youtu.be/pDXdlXlaCco)
+He's an inspiration!
+
+# TEST DATASET OUTPUT
+<img src="https://user-images.githubusercontent.com/75848702/168425987-e020d4b8-6c31-40a0-8f45-14d8bcdf8824.png" alt="Result_image" width="320" height="320">
+
